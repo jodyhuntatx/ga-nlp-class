@@ -1,5 +1,4 @@
 #!/bin/bash
-pip3 install notebook ipywidgets
 cd ..
 echo "Detach: 'Ctrl-b d'"
 echo "Attach: 'tmux attach -t jupyter"

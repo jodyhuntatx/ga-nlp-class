@@ -1,7 +1,7 @@
 #!/bin/bash
 main() {
-#  build_llama_cpp
-  download_model_from_hf
+  build_llama_cpp
+#  download_model_from_hf
 }
 
 #########################
