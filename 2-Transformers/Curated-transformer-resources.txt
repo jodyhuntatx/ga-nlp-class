@@ -1,0 +1,48 @@
+Curated External Resources - Introduction to Transformers
+The following is a curated list of external links, relating to the ideas and implementation behind the Transformer architecture:
+=======================================
+The Illustrated Transformer - Jay Alammar (Estimated Reading Time: 40 mins)
+https://jalammar.github.io/illustrated-transformer/
+
+This comprehensive blog post is a well-illustrated tutorial on the Transformer model by Jay Alammar.
+The post describes the Transformer model as a Neural Network architecture for NLP, explaining the main components of the model, such as Self-Attention, Positional Encoding, and Multi-head Attention, and how they work together to help perform tasks like Machine Translation.
+=======================================
+The Transformer Model - Stefania Cristina | Machine Learning Mastery (Estimated Reading Time: 30 mins)
+https://machinelearningmastery.com/the-transformer-model/
+
+This piece from Machine Learning Mastery is a more concise introduction to the Transformer's high-level components. 
+=======================================
+The Illustrated BERT, ELMo, and co. - Jay Alammar (Estimated Reading Time: 40 mins)
+https://jalammar.github.io/illustrated-bert/
+
+This blog post from Jay Alammar is an informative and visual guide to some of the recent advances in NLP, such as BERT, ELMo, ULMFiT, and the Transformer. 
+It provides a good overview to two crucial foundational models - Google's BERT and OpenAI's Decoder-style GPT-1 model, which set the stage for the LLM revolution.
+=======================================
+Attention Is All You Need (Paper Review) - Yannic Kilcher | YouTube (Watch Time: 27 mins)
+https://www.youtube.com/watch?v=iDulhoQ2pro
+
+This YouTube Video is a paper review of the original Transformer paper from Yannic Kilcher, with important insights and conceptual explanations.
+It covers the main idea behind the paper, the attention mechanism, the Transformer architecture and the relative advantages of the Transformer.
+=======================================
+Transformers: The Best Idea in AI - Andrej Karpathy / Lex Fridman Podcast | YouTube (Watch Time: 9 mins)
+https://www.youtube.com/watch?v=9uw3F6rndnA
+
+This YouTube Vdeo is part of an interview with Andrej Karpathy, former Director of AI at Tesla and former OpenAI scientist, about his views on Deep Learning and AI, in the Lex Fridman Podcast series. Karpathy is considered one of the highest-caliber and most influential voices in the AI Industry.
+In this video, Karpathy discusses the merits of the Transformer architecture, which he considers to be a very powerful and expressive differentiable computer that can process various types of data and tasks. He talks about the resilience and scalability of the Transformer, and suggests its invention as being one of the best ideas in the history of AI.
+=======================================
+The Invention of Modern AI transformers - Steven Levy (Estimated Reading Time: 15 mins)
+https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/
+
+This article tells the story of the inception of transformers architecture at Google. It details the thought processes and challenges faced by the team that created the revolutionary transformers architecture.
+=======================================
+Positional Embeddings in Transformers - Letitia Parcalabescu | YouTube (Watch Time: 10 mins)
+https://www.youtube.com/watch?v=1biZfFLPRSY
+
+This video reviews the various positional encodings used in transformers and the intuitions behind using each of them over the others. Positional encoding plays a pivotal role in enabling Transformers to understand the sequential nature of data, such as text.
+Positional encoding imbues each token in a sequence with unique positional information, allowing the model to discern the order and context of words or tokens within the input.
+=======================================
+BERTology meets Biology - Yannic Kilcher | YouTube (Watch Time: 37 mins)
+https://www.youtube.com/watch?v=q6Kyvy1zLwQ
+
+This video reviews the paper "BERTology Meets Biology: Interpreting Attention in Protein Language Models” by Jesse Vig, Ali Madani, Lav R. Varshney, Caiming Xiong, Richard Socher, and Nazneen Fatema Rajani. 
+This paper investigates the attention mechanism of a BERT model that has been trained on protein sequence data and discovers that the language model has implicitly learned non-trivial higher-order biological properties of proteins.
